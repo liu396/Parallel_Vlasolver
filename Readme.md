@@ -3,7 +3,6 @@
 A Parallel High-Performance Grid-Based Kinetic 1D1V Vlasov Solver for Computational Plasma Dynamics
 
 ## **Outline**
----
 
 ### 1. **Author and Maintainer**
 * Chen Cui (cuichen@usc.edu) 
@@ -36,7 +35,6 @@ A Parallel High-Performance Grid-Based Kinetic 1D1V Vlasov Solver for Computatio
 * Keep the possiblity of achieving higher dimensional ***Vlasolver***
 
 ## **Reference**
----
 [1]: Filbet, Francis, Eric Sonnendrücker, and Pierre Bertrand. "Conservative numerical schemes for the Vlasov equation." Journal of Computational Physics 172.1 (2001): 166-187.
 
 [2]: Einkemmer, Lukas. "Semi-Lagrangian Vlasov simulation on GPUs." arXiv preprint arXiv:1907.08316 (2019).
