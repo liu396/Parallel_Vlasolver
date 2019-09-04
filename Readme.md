@@ -31,7 +31,7 @@ A Parallel High-Performance Grid-Based Kinetic 1D1V Vlasov Solver for Computatio
 * Inhomogeneous Parallelization: ***CUDA[2]***
 
 ### 4. **Expected Results**
-* Improve the computational efficency of the original ***Vlasover***
+* Improve the computational efficency of the original ***Vlasolver***
 * Keep the possiblity of achieving higher dimensional ***Vlasolver***
 
 ## **Reference**
